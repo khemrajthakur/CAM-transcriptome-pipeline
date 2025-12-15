@@ -1,2 +1,2 @@
-# transcriptome-pipeline
-Transcriptomics pipeline for gene expression analysis of Covid-Associated Mucormycosis RNA-seq data
+# Transcriptome-pipeline
+This is RNA-seq analysis pipeline that is used to study host/pathogen transcriptomic changes in COVID-associated mucormycosis.
