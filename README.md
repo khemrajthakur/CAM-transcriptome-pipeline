@@ -1,0 +1,4 @@
+# Transcriptome-pipeline
+This is RNA-seq analysis pipeline that is used to study host/pathogen transcriptomic changes in COVID-associated mucormycosis.
+The pipeline designed to investigate transcriptomic alterations associated with COVID-associated mucormycosis. This pipeline supports end to end analysis such as quality control, read alignment or quantification, differential gene expression analysis, and downstrean functional interpretation. All scripts are well-documented and designed to facilitate transparent and reproducible research. 
+Raw sequencing data are not hosted in this repository. Instead, the repository contains all analysis scripts, processed result files, and visualization outputs required to reproduce the analyses. This pipeline can be executed on Linux-based systems and is compatible with high-performance computing environments.
